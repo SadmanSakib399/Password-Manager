@@ -8,6 +8,7 @@ relying on cloud storage.
 ------------------------------------------------------------------------
 
 ## 🖼️ Screenshots
+
 ![Password Manager](/images/Screenshot_password_manager.png)
 
 ------------------------------------------------------------------------
