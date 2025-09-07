@@ -6,6 +6,7 @@ This tool helps you generate strong passwords and manage them without
 relying on cloud storage.
 
 ------------------------------------------------------------------------
+
 ## 🖼️ Screenshots
 ![Password Manager](/images/Screenshot_password_manager.png)
 
